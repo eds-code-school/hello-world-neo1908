@@ -1,2 +1,2 @@
-def hello_world(name):
-  return "Hello, World!"
+def hello_world(name="World"):
+  return f"Hello, {name}!"
